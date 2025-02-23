@@ -209,3 +209,6 @@
 [15:15:22 | 23-02-2025] Last Claim Point: 21/02/2025 16:15:14
 [15:15:23 | 23-02-2025] ✅ Points claimed for 0x1Afeba582f03237451D2a95225F7C010a31213bF
 [15:15:23 | 23-02-2025] 🚨 Failed to start node for 0x1Afeba582f03237451D2a95225F7C010a31213bF: [object Object]
+[19:21:09 | 23-02-2025] Wallet Address: 0x1Afeba582f03237451D2a95225F7C010a31213bF
+[19:21:09 | 23-02-2025] Node Points: 133355
+[19:21:09 | 23-02-2025] Last Claim Point: 23/02/2025 08:15:23
