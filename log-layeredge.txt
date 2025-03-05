@@ -437,3 +437,6 @@
 <!-- a padding to disable MSIE and Chrome friendly error page -->
 
 [19:26:59 | 05-03-2025] 🚨 Failed to start node for 0x1Afeba582f03237451D2a95225F7C010a31213bF: [object Object]
+[23:21:11 | 05-03-2025] Wallet Address: 0x1Afeba582f03237451D2a95225F7C010a31213bF
+[23:21:11 | 05-03-2025] Node Points: 357006
+[23:21:11 | 05-03-2025] Last Claim Point: 05/03/2025 12:26:54
